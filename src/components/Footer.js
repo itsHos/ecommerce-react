@@ -2,8 +2,6 @@ import React, { useState } from 'react';
 
 // Lesson 8: Forms
 function Footer() {
-  const [email, setEmail] = useState('');
-
 
   return (
     <footer>
